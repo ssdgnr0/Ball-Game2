@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Ball.png</Source>
+      <Name>Images\Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\Ball.xnb</Output>
+      <Time>2013-08-27T18:46:01.6561904+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Batt.png</Source>
+      <Name>Images\Batt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\Batt.xnb</Output>
+      <Time>2013-08-28T14:35:03.2067685+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Target.png</Source>
+      <Name>Images\Target</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\Target.xnb</Output>
+      <Time>2013-08-31T18:37:51.209328+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background.png</Source>
+      <Name>Images\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\Background.xnb</Output>
+      <Time>2013-09-04T19:16:29.1446527+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TitleScreen.png</Source>
+      <Name>Images\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\TitleScreen.xnb</Output>
+      <Time>2013-09-05T08:09:27.9594059+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\font1.spritefont</Source>
+      <Name>Fonts\font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Fonts\font1.xnb</Output>
+      <Time>2013-09-06T12:14:14.90104+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-15T06:46:09.6200996+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

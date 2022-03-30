@@ -1,0 +1,48 @@
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\Ball.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\Batt.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\Target.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Fonts\font1.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\TitleScreen.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe.manifest
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.application
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.pdb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe.manifest
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.application
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.pdb
+C:\Users\Pc User\BallGame\BallGame\BallGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc User\BallGame\BallGame\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pc User\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.pdb
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\Ball.xnb
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\Batt.xnb
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\Target.xnb
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Images\TitleScreen.xnb
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Fonts\font1.xnb
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe.manifest
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.application
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe
+C:\Users\Pc User\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.pdb
+C:\Users\Pc User\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe.manifest
+C:\Users\Pc User\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.application
+C:\Users\Pc User\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\Ball.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\Batt.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\Target.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Images\TitleScreen.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\Content\Fonts\font1.xnb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\BallGame.exe.manifest
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\BallGame.application
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\BallGame.exe
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\bin\x86\Debug\BallGame.pdb
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\obj\x86\Debug\BallGame.exe.manifest
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\obj\x86\Debug\BallGame.application
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\obj\x86\Debug\BallGame.exe
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of structs\BallGame\obj\x86\Debug\BallGame.pdb

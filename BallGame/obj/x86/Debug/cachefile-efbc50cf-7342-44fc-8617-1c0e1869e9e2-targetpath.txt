@@ -1,0 +1,6 @@
+Content\Images\Ball.xnb
+Content\Images\Batt.xnb
+Content\Images\Target.xnb
+Content\Images\Background.xnb
+Content\Images\TitleScreen.xnb
+Content\Fonts\font1.xnb
